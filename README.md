@@ -1,9 +1,13 @@
 # Mod1-Week1-Day1-Test
 
 <details>
-<summary> Day 1</summary>
+<summary> 
+ 
+ <h2>Learning Objectives <h2/> 
+ 
+  </summary>
 
-# Learning Objectives
+
 
 <p>By the end of the lecture you should be able to:
 
