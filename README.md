@@ -1,13 +1,28 @@
-# Mod1-Week1-Day1-Test
+<!-- # This is a title
+
+
+
+This is more text
+
+ - this is a list
+   - This is the second item
+
+[this is a link to google](http://www.google.com) 
+
+![sample image](https://media.istockphoto.com/photos/finance-and-economy-chart-for-dollar-gold-euro-currencies-trading-picture-id1288703928?b=1&k=20&m=1288703928&s=170667a&w=0&h=8u1I5OcP2Cn-_DhNgpQ3M6aw-HebKuMQLj6SpXXb82s=){: .shadow}
+
+
+```html
+<p>This is a paragraph</p> 
+```
+```javascript
+let dog = Math.random()
+``` -->
 
 <details>
-<summary> 
- 
- <h2>Learning Objectives <h2/> 
- 
-  </summary>
+<summary> Day 1</summary>
 
-
+# Learning Objectives
 
 <p>By the end of the lecture you should be able to:
 
@@ -26,7 +41,7 @@
 </summary>
 
 
-- Things are not always going to go as planned. <br>
+- Things are not always going to go as planned.
 ![Slide 3 image](/images/slide3.png)
 
 - Being confused/lost is NORMAL. No one pays you because you know all the answers. The job is about jumping into confusion and being able to find a solution. Get comfortable with being uncomfortable.
@@ -131,6 +146,71 @@ See that programming is not about learning a recipe, it's about developing a min
 
  ![Slide 12 image](/images/slide12.png)
 
+ - Lets watch a short video on DNS 
+
+ - <https://www.youtube.com/watch?v=72snZctFFtA>
+
+</details>
+
+<details>
+ <summary>
+ <b>Define an Application
+</b>
+ </summary>
+
+![Slide 14 image](/images/slide14.png)
+
+ A program that performs certain/specific operations for the user 
+
+- Can you identify an app that is both a desktop and mobile app ?
+- Can you differentiate between desktop, web and mobile applications?
+
+
+Let’s discuss the Web Application Architecture.
+
+![Slide 15 image](/images/slide15.png)
+
+</details>
+
+
+<details>
+ <summary>
+ <b>Software Development Life Cycle (SDLC)
+
+</b>
+ </summary>
+
+![Slide 14 image](/images/slide16.png)
+
+ <b>What is the SDLC?</b>
+
+ <b>Phases for SDLC</b>
+
+- Planning, requirements and Analyzing
+- Design
+- Development
+- Testing
+- Deployment
+- Maintenance
+
+
+
+
+
+Let’s discuss the Web Application Architecture.
+
+
+
+</details>
+
+test
+
+
+
+
+
+
+
 </details>
 
 
@@ -139,4 +219,7 @@ See that programming is not about learning a recipe, it's about developing a min
 
 
 
-</details>
+
+
+
+
