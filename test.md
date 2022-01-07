@@ -146,6 +146,60 @@ See that programming is not about learning a recipe, it's about developing a min
 
  ![Slide 12 image](/images/slide12.png)
 
+ - Lets watch a short video on DNS 
+
+ - <https://www.youtube.com/watch?v=72snZctFFtA>
+
+</details>
+
+<details>
+ <summary>
+ <b>Define an Application
+</b>
+ </summary>
+
+![Slide 14 image](/images/slide14.png)
+
+ A program that performs certain/specific operations for the user 
+
+- Can you identify an app that is both a desktop and mobile app ?
+- Can you differentiate between desktop, web and mobile applications?
+
+
+Let’s discuss the Web Application Architecture.
+
+![Slide 15 image](/images/slide15.png)
+
+</details>
+
+
+<details>
+ <summary>
+ <b>Software Development Life Cycle (SDLC)
+
+</b>
+ </summary>
+
+![Slide 14 image](/images/slide16.png)
+
+ <b>What is the SDLC?</b>
+
+ <b>Phases for SDLC</b>
+
+- Planning, requirements and Analyzing
+- Design
+- Development
+- Testing
+- Deployment
+- Maintenance
+
+
+
+
+Let’s discuss the Web Application Architecture.
+
+
+
 </details>
 
 
